@@ -1,0 +1,8 @@
+{
+  "name": "primo-explore-bc-permalink",
+  "version": "0.0.1",
+  "description": "Replace default permalinks with BC handles",
+  "main": "index.js",
+  "author": "Luke Gaudreau",
+  "license": "GPL-3.0"
+}
