@@ -8,7 +8,7 @@ angular
             // change permalink to correct url
             $scope.$watch('vm.parentCtrl.permalink',function () {
                 if(vm.parentCtrl.item){
-                    if(vm.parentCtrl.item.pnx.search.lsr13) {
+                    if(vm.parentCtrl.item.pnx.search.lsr13 && vm.parentCtrl.item.pnx.addata.lad09 == "DAO") {
                         vm.parentCtrl.permalink = 'https://hdl.handle.net/' + vm.parentCtrl.item.pnx.search.lsr13[0];
                     }
                 }
