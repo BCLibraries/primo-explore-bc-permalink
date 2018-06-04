@@ -29,10 +29,7 @@ angular
                     },1000);
 
                 }
-                
             });
-
-
 	};
 
 	vm.selectText=function() {
