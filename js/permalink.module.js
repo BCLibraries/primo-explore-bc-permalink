@@ -15,7 +15,7 @@ angular
             });
 	};
 
-])
+}])
 
     .component('prmPermalinkAfter',{
         bindings:{parentCtrl:'<'},
